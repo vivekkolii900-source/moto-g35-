@@ -1,0 +1,6 @@
+{
+  "name": "Apex Circuit",
+  "description": "3D car racing simulator with realistic weight-transfer and tire physics, deep vehicle customization, ghost rivals, and global competitive leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
